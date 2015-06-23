@@ -8,19 +8,13 @@ A minimal, aesthetically pleasing fish theme.
 
 > Note: Make sure you're using a Unicode-enabled terminal and font.
 
-## Features
-
-### Left prompt
+## Prompt
 
     <abbreviated path> (<current git branch>) [<vi mode>] ⏛ 
 
 * Working directory
 * Current git branch
 * vi mode, if the oh-my-fish `vi-mode` plugin is enabled
-
-### Right prompt
-
-    <current date/time>
 
 ## Screenshots
 
