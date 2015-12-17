@@ -10,7 +10,7 @@ A minimal, aesthetically pleasing fish theme.
 
 ## Prompt
 
-    <abbreviated path> (<current git branch>) [<vi mode>] ⏛ 
+    <abbreviated path> (<current git branch>) [<vi mode>] ⋊>
 
 * Working directory
 * Current git branch
