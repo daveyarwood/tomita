@@ -7,8 +7,8 @@ function fish_prompt
 
   set_color normal
   printf '%s ' (__fish_git_prompt)
-  
-  if test -z (string match -ri '^no|false|0$' $TOMITA_VI)
+
+  if test -z (string match -ri '^no|false|0$' $tomita_vi_mode)
     printf '['
     switch $fish_bind_mode
       case default
