@@ -14,7 +14,7 @@ A minimal, aesthetically pleasing fish theme.
 
 * Working directory
 * Current git branch
-* vi mode (requires fish 2.2+)
+* vi mode (requires fish 2.2+ and can be disabled with `set -x TOMITA_VI no`)
 
 > This theme includes a custom vi mode indicator which is built into `fish_prompt`. If you'd like to use vi mode, I recommend adding the following lines to your config.fish:
 >
